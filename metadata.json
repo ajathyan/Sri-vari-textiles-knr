@@ -1,0 +1,6 @@
+{
+  "name": "Sri Vari Textiles",
+  "description": "Elegant single HTML landing page for Sri Vari Textiles in Koothanallur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
